@@ -1,0 +1,7 @@
+# https://vuejs.org/guide/quick-start.html 
+npm init vue@latest
+
+cd vue-project
+npm install
+
+npm run dev
