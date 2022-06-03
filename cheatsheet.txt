@@ -1,7 +1,17 @@
 # https://vuejs.org/guide/quick-start.html 
-npm init vue@latest
 
 cd vue-project
+
+# install dep after clone
 npm install
 
+# run test
 npm run dev
+
+===
+
+# install npm package
+npm install uuid
+
+# create project from zero
+npm init vue@latest
